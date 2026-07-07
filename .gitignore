@@ -37,4 +37,4 @@ build/
 .env.local
 application-local.properties
 application-dev.properties
-src/main/resources/application.properties
+
